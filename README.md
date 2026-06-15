@@ -23,3 +23,6 @@ I successfully tested the environment within Linux client and server network nam
 
 Update 8
 This repository tracks my structural course checkpoint history.
+
+Update 9
+Final update checking that everything renders properly on the home page dashboard.
