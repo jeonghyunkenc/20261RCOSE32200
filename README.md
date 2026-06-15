@@ -8,3 +8,6 @@ I practiced handling system signals and managing foreground processes.
 
 Update 3
 In Project 2, I implemented a kernel-space load balancer using eBPF technology.
+
+Update 4 
+I worked with the network traffic control hook to intercept incoming server packets.
