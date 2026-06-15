@@ -5,3 +5,6 @@ In Project 1, I learned about building custom Unix shell environments.
 
 Update 2
 I practiced handling system signals and managing foreground processes.
+
+Update 3
+In Project 2, I implemented a kernel-space load balancer using eBPF technology.
