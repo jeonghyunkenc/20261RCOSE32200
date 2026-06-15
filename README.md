@@ -14,3 +14,6 @@ I worked with the network traffic control hook to intercept incoming server pack
 
 Update 5
 I designed a stateful flow table map to track ongoing TCP connection sessions.
+
+Update 6
+I used global array counters to handle round-robin routing logic between endpoints.
