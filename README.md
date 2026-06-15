@@ -26,3 +26,6 @@ This repository tracks my structural course checkpoint history.
 
 Update 9
 Final update checking that everything renders properly on the home page dashboard.
+
+Update 10
+Technincally, creating the repos should be a commit but I will still update once more.
