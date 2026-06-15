@@ -17,3 +17,6 @@ I designed a stateful flow table map to track ongoing TCP connection sessions.
 
 Update 6
 I used global array counters to handle round-robin routing logic between endpoints.
+
+Update 7
+I successfully tested the environment within Linux client and server network namespaces.
